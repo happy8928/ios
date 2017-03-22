@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cloud.189.cn/download/client/iOS/cloud189_1.1.1.ipa</string>
+					<string>https://raw.githubusercontent.com/happy8928/ios/master/dog.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
+				<key>com.dogmusic.afeng</key>
 				<string>com.fnst.smartwork</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>xxx.ipa</string>
+				<string>dog.ipa</string>
 			</dict>
 		</dict>
 	</array>
